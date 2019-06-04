@@ -1,21 +1,12 @@
 ---
-published: false
----
----
+published: true
 layout: post
-title: 5 Digital Enterprise Architecture strategies to establish your company’s
-competitive edge
+title: 5 Digital Enterprise Architecture strategies to establish your company’s competitive edge
 ---
 
-## It’s no secret that Amazon, or some other digitally-adept organisation (but most
-likely Amazon), will sooner or later attempt to take over your industry. Here’s
-how to stay ahead of the curve.
+> It’s no secret that Amazon, or some other digitally-adept organisation (but most likely Amazon), will sooner or later attempt to take over your industry. Here’s how to stay ahead of the curve.
 
-Some time ago, I wrote [What is Digital Architecture
-Anyway?](https://hackernoon.com/what-is-digital-architecture-anyway-47482189e3fc)
-As a continuation of that article, also as apparently I am not very creative in
-finding new topics, I would like to focus on **Digital **Enterprise Architecture
-this time.
+Some time ago, I wrote [What is Digital Architecture Anyway?](https://hackernoon.com/what-is-digital-architecture-anyway-47482189e3fc) As a continuation of that article, also as apparently I am not very creative infinding new topics, I would like to focus on **Digital **Enterprise Architecture this time.
 
 ![](https://cdn-images-1.medium.com/max/800/1*wRaNDbgT7X2Bf5e-JCp5Iw.jpeg)
 
