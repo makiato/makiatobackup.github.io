@@ -2,6 +2,7 @@
 layout: post
 title: Welcome to new zettamachine
 published: true
+tags: [foo, bar, something something]
 ---
 
 Now I just have to update the index page.
