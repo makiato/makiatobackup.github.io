@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Mehmet Akyuz
 
-### More Information
+I'm a Sydney based Digital Solutions Architect with 18+ years of technology experience and a shiny TOGAF certificate.
 
-A place to include any other types of information that you'd like to include about yourself.
+I have been helping clients from finance, insurance, telco and other industries with their large programs and managing end to end architectures. Lately I got more involved in digital transformation initiatives and sharing my thoughts and ideas in my blog.
 
-### Contact me
+I'm particularly interested in APIs, enterprise architecture and digital thinking.
 
-[email@domain.com](mailto:email@domain.com)
+I'm also fond of motorcycles , photography  and music  and occasionally code  for fun.
+
+Feel free to contact me on  linkedin.com/makyuz &  twitter.com/_makyuz
