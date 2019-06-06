@@ -2,7 +2,7 @@
 id: 477
 title: Digital Thinking
 date: 2016-05-03T21:23:19+00:00
-author: zetta
+author: Mehmet Akyuz
 layout: post
 guid: http://zettamachine.com/?p=477
 permalink: /2016/05/03/digital-thinking/
@@ -25,17 +25,17 @@ It is obvious that technology is a significant component to digital transformati
 
 Digital presents an opportunity to organisations to re-visit and digitise their businesses in the light of new trends and technologies. It is up to organisations to take this opportunity as a chance to create something better or something awesome. Are you just trying to automate your existing processes? Or just re-creating the same experience on different screens?
 
-If you are truly set out for creating the awesome, the basic and lasting question for you to answer is: &#8220;what is the awesome experience?” How can you create the differentiating experience hitting the bullseye &#8211; not what you preconceived as the best &#8211; for your customers?
+If you are truly set out for creating the awesome, the basic and lasting question for you to answer is: &#8220;what is the awesome experience?â€� How can you create the differentiating experience hitting the bullseye &#8211; not what you preconceived as the best &#8211; for your customers?
 
-Here [Design Thinking](http://www.whatisdesignthinking.org/) can provide you proven methods for tackling complex unknowns and finding appealing – and sometimes unexpected &#8211; new solutions.
+Here [Design Thinking](http://www.whatisdesignthinking.org/) can provide you proven methods for tackling complex unknowns and finding appealing â€“ and sometimes unexpected &#8211; new solutions.
 
 Design Thinking has a number of definitions, here is the one from Tim Brown, whose name became synonymous with the concept:
 
 > Design thinking is a human-centered approach to innovation that draws from the designer&#8217;s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.
 
-As Tim’s definition points out, design thinking is a reliable approach to innovation. Having its history going back to early 1990s and involving people like [Hasso Platner](http://hpi.de/en/school-of-design-thinking.html), design thinking is not a prescriptive methodology. There are various design thinking implementation methods with similar process steps but with some nuances. [Here is a great article](https://experience.sap.com/skillup/introduction-to-design-thinking/) describing these methods, similarities and differences.
+As Timâ€™s definition points out, design thinking is a reliable approach to innovation. Having its history going back to early 1990s and involving people like [Hasso Platner](http://hpi.de/en/school-of-design-thinking.html), design thinking is not a prescriptive methodology. There are various design thinking implementation methods with similar process steps but with some nuances. [Here is a great article](https://experience.sap.com/skillup/introduction-to-design-thinking/) describing these methods, similarities and differences.
 
-I will take the approach defined by Stanford University’s Institute of Design (a.k.a. [d.school](https://dschool.stanford.edu/)) and try to explain how design thinking and digital transformation can go hand in hand to form Digital Thinking on the path for creating the awesome.
+I will take the approach defined by Stanford Universityâ€™s Institute of Design (a.k.a. [d.school](https://dschool.stanford.edu/)) and try to explain how design thinking and digital transformation can go hand in hand to form Digital Thinking on the path for creating the awesome.
 
 [<img class="aligncenter size-full wp-image-486" src="https://i1.wp.com/insights.zettamachine.com/wp-content/uploads/2016/05/dt_process.jpeg?resize=660%2C193&#038;ssl=1" alt="dt_process" width="660" height="193" data-recalc-dims="1" />](https://i1.wp.com/insights.zettamachine.com/wp-content/uploads/2016/05/dt_process.jpeg?ssl=1)
 
@@ -71,6 +71,6 @@ Quickly prototyping the idea will allow you to test your solution early in the p
   Test
 </h2>
 
-Testing your idea – using the prototypes you have created – is obviously a great way to test your solution. Is your solution intuitive, has your test group got excited with the experience? For a digital solution, in the infant stages of the prototype it might be easier to test and collect the feedback. As the prototype gets sophisticated, digital teams should also find the ways to embed
+Testing your idea â€“ using the prototypes you have created â€“ is obviously a great way to test your solution. Is your solution intuitive, has your test group got excited with the experience? For a digital solution, in the infant stages of the prototype it might be easier to test and collect the feedback. As the prototype gets sophisticated, digital teams should also find the ways to embed
 
 There are a good number of articles and stories out on the internet regarding design thinking. If you are also interested in applying design thinking into your digital transformation, a fun way to start is could be just [watching this movie](http://designthinkingmovie.com/).
