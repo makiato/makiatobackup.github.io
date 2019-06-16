@@ -2,7 +2,7 @@
 id: 668
 title: So, What is Digital Enterprise Architecture?
 date: 2018-11-15T12:08:25+00:00
-author: zetta
+author: Mehmet Akyuz
 layout: post
 guid: https://insights.zettamachine.com/?p=668
 permalink: /2018/11/15/so-what-is-digital-enterprise-architecture/
