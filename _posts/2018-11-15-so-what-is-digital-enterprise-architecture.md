@@ -4,12 +4,9 @@ title: So, What is Digital Enterprise Architecture?
 date: 2018-11-15T12:08:25+00:00
 author: Mehmet Akyuz
 layout: post
-guid: https://insights.zettamachine.com/?p=668
+guid: https://zettamachine.com/insights/2018/11/15/so-what-is-digital-enterprise-architecture/
 permalink: /2018/11/15/so-what-is-digital-enterprise-architecture/
-image: /wp-content/uploads/2018/11/IMG_20180903_093155-825x510.jpg
-categories:
-  - Architecture
-  - Business
+image: /images//IMG_20180903_093155-825x510.jpg
 tags:
   - digital
   - digital architecture
