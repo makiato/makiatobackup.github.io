@@ -15,7 +15,7 @@ tags:
   - digital transformation
   - enterprise architecture
 ---
-<img class="aligncenter size-full" src="/images/insights/IMG_20180903_093157.jpg?resize=660%2C429&#038;ssl=1" alt="" width="660" height="429" srcset="https://i1.wp.com/insights.zettamachine.com/wp-content/uploads/2018/11/IMG_20180903_093157.jpg?w=1200&ssl=1 1200w, https://i1.wp.com/insights.zettamachine.com/wp-content/uploads/2018/11/IMG_20180903_093157.jpg?resize=300%2C195&ssl=1 300w, https://i1.wp.com/insights.zettamachine.com/wp-content/uploads/2018/11/IMG_20180903_093157.jpg?resize=768%2C499&ssl=1 768w, https://i1.wp.com/insights.zettamachine.com/wp-content/uploads/2018/11/IMG_20180903_093157.jpg?resize=1024%2C666&ssl=1 1024w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" />
+<img class="aligncenter size-full" src="/images/insights/IMG_20180903_093157.jpg" alt="" width="660" height="429" srcset="/images/insights/IMG_20180903_093157.jpg 1200w, IMG_20180903_093157-300x195.jpg 300w, /images/insights/IMG_20180903_093157-768x499.jpg 768w, /images/insights/IMG_20180903_093157-1024x666.jpg 1024w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" />
 
 Some time ago, I wrote an article about [what is Digital Architecture](https://www.linkedin.com/pulse/what-digital-architecture-anyway-mehmet-akyuz/). As a continuation of that article, also as apparently I am not very creative in finding new topics, I would like to focus on Digital Enterprise Architecture this time.
 
