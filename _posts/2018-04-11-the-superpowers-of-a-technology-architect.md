@@ -2,19 +2,17 @@
 id: 649
 title: The Superpowers of a Technology Architect
 date: 2018-04-11T12:15:44+00:00
-author: zetta
+author: Mehmet Akyuz
 layout: post
-guid: https://insights.zettamachine.com/?p=649
+guid: /2018/04/11/the-superpowers-of-a-technology-architect/
 permalink: /2018/04/11/the-superpowers-of-a-technology-architect/
-image: /wp-content/uploads/2018/04/superpowers_of_an_architect_bw-825x510.jpg
-categories:
-  - Architecture
+image: /images/superpowers_of_an_architect_bw-825x510.jpg
 tags:
   - architect
   - architecture
   - enterprise architecture
 ---
-<img class="aligncenter size-full wp-image-650" src="https://i2.wp.com/insights.zettamachine.com/wp-content/uploads/2018/04/superpowers_of_an_architect_bw.jpg?resize=660%2C440&#038;ssl=1" alt="" width="660" height="440" srcset="https://i2.wp.com/insights.zettamachine.com/wp-content/uploads/2018/04/superpowers_of_an_architect_bw.jpg?w=1360&ssl=1 1360w, https://i2.wp.com/insights.zettamachine.com/wp-content/uploads/2018/04/superpowers_of_an_architect_bw.jpg?resize=300%2C200&ssl=1 300w, https://i2.wp.com/insights.zettamachine.com/wp-content/uploads/2018/04/superpowers_of_an_architect_bw.jpg?resize=768%2C512&ssl=1 768w, https://i2.wp.com/insights.zettamachine.com/wp-content/uploads/2018/04/superpowers_of_an_architect_bw.jpg?resize=1024%2C683&ssl=1 1024w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" />
+<img class="aligncenter size-full wp-image-650" src="/images/superpowers_of_an_architect_bw.jpg" alt="" width="660" height="440" srcset="/images/superpowers_of_an_architect_bw.jpg 1360w, https://i2.wp.com/insights.zettamachine.com/wp-content/uploads/2018/04/superpowers_of_an_architect_bw.jpg?resize=300%2C200&ssl=1 300w, https://i2.wp.com/insights.zettamachine.com/wp-content/uploads/2018/04/superpowers_of_an_architect_bw.jpg?resize=768%2C512&ssl=1 768w, https://i2.wp.com/insights.zettamachine.com/wp-content/uploads/2018/04/superpowers_of_an_architect_bw.jpg?resize=1024%2C683&ssl=1 1024w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" />
 
 Every profession requires special skills which make an individual best or mediocre in that field. If you are a [superhero](https://en.wikipedia.org/wiki/List_of_superhuman_features_and_abilities_in_fiction), flying without engines, seeing behind the walls or firing laser beams off your eyes would certainly make you a favourite amongst the others.
 
@@ -79,9 +77,5 @@ Endurance doesn&#8217;t sound like a flashy superpower but it is a complementary
 Architects fed on uncertainty and their job essentially is to facilitate change in a good direction. Change is not always easy and as Dan Heath, co-author of a couple of books on change, points out [in this short video](https://www.youtube.com/watch?v=RpiDWeRN4UA), it may even get you exhausted to a point you don&#8217;t really care anymore. Architects tell people that things are going to change, and they may even have to step into new, unknown territories. In many cases, people will be reluctant to change or won&#8217;t fully agree with the direction architect is pointing at. Even architect herself might have inner debates on how to get there. She would question whether she should compromise on the architectural principles to deliver the business value earlier, or whether she should say no to the business sponsors to avoid technical debts. Either way getting from an idea to a delivery-ready design is a pretty exhausting task and architects should find ways to keep up their willpower.
 
 One easy method is simply to accept the fact that non-architectural tasks of chasing and convincing people, having endless discussions and developing business cases are also part of an architect&#8217;s job. If it helps, architects can imagine themselves as management consultants sent to a client to develop business. As a dexterous consultant wouldn&#8217;t leave the client without a meaningful outcome both for the client and herself, an architect should also display the same endurance in order to get to the best solution for the organisation.
-
-<p style="text-align: center;">
-  ⅏
-</p>
 
 This wraps up my list of superpowers a super architect must have. Anything missing or doesn&#8217;t make sense? Let me know in the comments.

@@ -2,21 +2,17 @@
 id: 664
 title: How to successfully fail Digital Transformation
 date: 2018-08-07T11:36:53+00:00
-author: zetta
+author: Mehmet Akyuz
 layout: post
-guid: https://insights.zettamachine.com/?p=664
+guid: /2018/08/07/how-to-successfully-fail-digital-transformation/
 permalink: /2018/08/07/how-to-successfully-fail-digital-transformation/
-classic-editor-remember:
-  - classic-editor
-image: /wp-content/uploads/2018/08/Dragon-825x510.jpg
-categories:
-  - Architecture
+image: /images/Dragon-825x510.jpg
 tags:
   - digital
   - digital thinking
   - digital transformation
 ---
-<img class="aligncenter size-full wp-image-665" src="https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2018/08/Dragon.jpg?resize=660%2C459&#038;ssl=1" alt="" width="660" height="459" srcset="https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2018/08/Dragon.jpg?w=1057&ssl=1 1057w, https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2018/08/Dragon.jpg?resize=300%2C209&ssl=1 300w, https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2018/08/Dragon.jpg?resize=768%2C534&ssl=1 768w, https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2018/08/Dragon.jpg?resize=1024%2C712&ssl=1 1024w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" />
+<img class="aligncenter size-full wp-image-665" src="/images/Dragon.jpg" alt="" width="660" height="459" srcset="/images/Dragon.jpg 1057w, /insights/Dragon-300x209.jpg 300w, /images/Dragon-768x534.jpg 768w, /images/Dragon-1024x712.jpg 1024w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" />
 
 It is nearly impossible not coming across an article or a post about digital transformation on any given day. I can at least guarantee you have seen one today.
 
