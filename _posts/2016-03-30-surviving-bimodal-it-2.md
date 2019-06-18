@@ -2,14 +2,11 @@
 id: 448
 title: Surviving Bimodal IT
 date: 2016-03-30T22:29:29+00:00
-author: zetta
+author: Mehmet Akyuz
 layout: post
-guid: http://zettamachine.com/?p=448
+guid: /2016/03/30/surviving-bimodal-it-2/
 permalink: /2016/03/30/surviving-bimodal-it-2/
-image: /wp-content/uploads/2016/03/10419846516_576f9c8678_c.jpg
-categories:
-  - Architecture
-  - Business
+image: /images/10419846516_576f9c8678_c.jpg
 tags:
   - 2 speed it
   - agile

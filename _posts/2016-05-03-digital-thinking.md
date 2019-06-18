@@ -4,19 +4,16 @@ title: Digital Thinking
 date: 2016-05-03T21:23:19+00:00
 author: Mehmet Akyuz
 layout: post
-guid: http://zettamachine.com/?p=477
-permalink: /2016/05/03/digital-thinking/
-image: /wp-content/uploads/2016/05/design_thinking_base.jpg
-categories:
-  - Architecture
-  - Business
+guid: /2016/05/03/digital-thinking
+permalink: /2016/05/03/digital-thinking
+image: /images/design_thinking_base.jpg
 tags:
   - design
   - design thinking
   - digital
   - digital transformation
 ---
-[<img class="aligncenter wp-image-484 size-full" src="https://i2.wp.com/insights.zettamachine.com/wp-content/uploads/2016/04/design_thinking_base.jpg?resize=660%2C439&#038;ssl=1" alt="design_thinking_base" width="660" height="439" data-recalc-dims="1" />](https://i2.wp.com/insights.zettamachine.com/wp-content/uploads/2016/04/design_thinking_base.jpg?ssl=1)
+<img src="/images/design_thinking_base.jpg" alt="design_thinking_base" width="660" height="439" data-recalc-dims="1" />
 
 Digital is big. It is not only big in the size of the hype it created but also big in its breadth and impact. It has become the codename for anything mixing the latest in technology with dazzling customer experience. [Wikipedia&#8217;s definition of digital transformation](https://en.wikipedia.org/wiki/Digital_transformation) refers to it as the next chapter in technology literacy where technology amalgamates with creativity and innovation.  
 <!--more-->
@@ -33,11 +30,11 @@ Design Thinking has a number of definitions, here is the one from Tim Brown, who
 
 > Design thinking is a human-centered approach to innovation that draws from the designer&#8217;s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.
 
-As Timâ€™s definition points out, design thinking is a reliable approach to innovation. Having its history going back to early 1990s and involving people like [Hasso Platner](http://hpi.de/en/school-of-design-thinking.html), design thinking is not a prescriptive methodology. There are various design thinking implementation methods with similar process steps but with some nuances. [Here is a great article](https://experience.sap.com/skillup/introduction-to-design-thinking/) describing these methods, similarities and differences.
+As Tim's definition points out, design thinking is a reliable approach to innovation. Having its history going back to early 1990s and involving people like [Hasso Platner](http://hpi.de/en/school-of-design-thinking.html), design thinking is not a prescriptive methodology. There are various design thinking implementation methods with similar process steps but with some nuances. [Here is a great article](https://experience.sap.com/skillup/introduction-to-design-thinking/) describing these methods, similarities and differences.
 
-I will take the approach defined by Stanford Universityâ€™s Institute of Design (a.k.a. [d.school](https://dschool.stanford.edu/)) and try to explain how design thinking and digital transformation can go hand in hand to form Digital Thinking on the path for creating the awesome.
+I will take the approach defined by Stanford University's Institute of Design (a.k.a. [d.school](https://dschool.stanford.edu/)) and try to explain how design thinking and digital transformation can go hand in hand to form Digital Thinking on the path for creating the awesome.
 
-[<img class="aligncenter size-full wp-image-486" src="https://i1.wp.com/insights.zettamachine.com/wp-content/uploads/2016/05/dt_process.jpeg?resize=660%2C193&#038;ssl=1" alt="dt_process" width="660" height="193" data-recalc-dims="1" />](https://i1.wp.com/insights.zettamachine.com/wp-content/uploads/2016/05/dt_process.jpeg?ssl=1)
+<img src="/images/dt_process.jpeg" alt="dt_process" width="660" height="193" data-recalc-dims="1" />
 
 <h2 style="color: #0070c1;">
   Empathize
