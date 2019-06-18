@@ -50,7 +50,7 @@ At the outset, Bimodal IT looks like a way out for the CIOs, in reality it does 
 
 After all, even if IT manages to work in two speeds, actual business cannot be delivered under distinct modes. For instance, a company cannot have a Mode 1 and Mode 2 type of sales processes. Customer experience must be consistent across all the channels and throughout the lifecycle of the relationship. A business needs all of its units to work in harmony and be agile and stable as necessary to enable innovation while increasing profits and maintaining its reputation in the market.
 
-<a href="https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2016/03/swWRyUf5rjVj-Ld1xaRTfzg.png?ssl=1" rel="attachment wp-att-460"><img class="aligncenter size-full wp-image-460" src="https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2016/03/swWRyUf5rjVj-Ld1xaRTfzg.png?resize=645%2C532&#038;ssl=1" alt="swWRyUf5rjVj-Ld1xaRTfzg" width="645" height="532" data-recalc-dims="1" /></a>
+<img class="aligncenter size-full wp-image-460" src="/images/insights/swWRyUf5rjVj-Ld1xaRTfzg.png" alt="swWRyUf5rjVj-Ld1xaRTfzg" width="645" height="532" data-recalc-dims="1" />
 
 > In short, Bimodal IT is not a cure for an agile IT, but it is the diagnosis of the fact that some parts of your IT organisation are not agile enough, and when they are, they sacrifice on safety and accuracy.
 
@@ -83,7 +83,7 @@ There are two prominent models in the industry:
 
 Squadification also defines methods and structures for inter-dependency management and alignment to company&#8217;s higher strategic goals while empowering people to choose the methods and land on decisions easily.
 
-<a href="https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2016/03/squadification.png?ssl=1" rel="attachment wp-att-461"><img class="aligncenter size-full wp-image-461" src="https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2016/03/squadification.png?resize=660%2C379&#038;ssl=1" alt="squadification" width="660" height="379" data-recalc-dims="1" /></a>
+<img src="/images/insights/squadification.png?resize=660%2C379&#038;ssl=1" alt="squadification" width="660" height="379" data-recalc-dims="1" />
 
 Check out these links if you want to learn more about Squadification:
 
@@ -99,7 +99,7 @@ IT leaders who would like to try a bit more closer-to-traditional-corporate, les
 
 Being the most known scaled agile methodology, SAFe® (Scaled Agile Framework) defines four different levels to deliver change along with the coordination processes between the levels. These four levels are Portfolio, Value Stream, Program, and Team. These levels and the coordination processes allows corporates to align  bigger transformation programs with strategy, budget and strategic architecture (Portfolio-level) and bigger transformations (Program-level) with smaller sprints (Team-level).  SAFe® also defines inter-level processes such as the architectural runway which helps identifying and managing the  dependencies between the modes incrementally.
 
-<a href="https://i1.wp.com/insights.zettamachine.com/wp-content/uploads/2016/03/resonatingfreq.png?ssl=1" rel="attachment wp-att-462"><img class="aligncenter size-full wp-image-462" src="https://i1.wp.com/insights.zettamachine.com/wp-content/uploads/2016/03/resonatingfreq.png?resize=650%2C400&#038;ssl=1" alt="resonatingfreq" width="650" height="400" data-recalc-dims="1" /></a>
+<img src="/images/insights/resonatingfreq.png" alt="resonatingfreq" width="650" height="400" data-recalc-dims="1" />
 
 Check out these links to find out more about scaled agile:
 
