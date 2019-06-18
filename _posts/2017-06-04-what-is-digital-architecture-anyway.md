@@ -2,13 +2,11 @@
 id: 624
 title: What is Digital Architecture anyway?
 date: 2017-06-04T07:09:47+00:00
-author: zetta
+author: Mehmet Akyuz
 layout: post
-guid: https://insights.zettamachine.com/?p=624
+guid: /2017/06/04/what-is-digital-architecture-anyway/
 permalink: /2017/06/04/what-is-digital-architecture-anyway/
-image: /wp-content/uploads/2017/06/good_idea-825x510.jpg
-categories:
-  - Architecture
+image: /images/good_idea-825x510.jpg
 tags:
   - agile architecture
   - design thinking
@@ -16,7 +14,7 @@ tags:
   - digital transformation
   - enterprise architecture
 ---
-<img class="aligncenter size-full wp-image-625" src="https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2017/06/good_idea.jpg?resize=660%2C417&#038;ssl=1" alt="" width="660" height="417" srcset="https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2017/06/good_idea.jpg?w=1181&ssl=1 1181w, https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2017/06/good_idea.jpg?resize=300%2C190&ssl=1 300w, https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2017/06/good_idea.jpg?resize=768%2C485&ssl=1 768w, https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2017/06/good_idea.jpg?resize=1024%2C647&ssl=1 1024w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" />
+<img class="aligncenter size-full wp-image-625" src="/images/good_idea.jpg" alt="" width="660" height="417" srcset="/images/good_idea.jpg 1181w, /images/good_idea-300x190.jpg 300w, good_idea-768x485.jpg 768w, good_idea-1024x647.jpg 1024w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" />
 
 > <div>
 >   Best way to secure funding for your project is to put the word Digital somewhere into the name of it.
