@@ -2,18 +2,10 @@
 id: 197
 title: Monitoring SOA Critical Success Factors
 date: 2013-01-28T14:58:34+00:00
-author: zetta
+author: Mehmet Akyuz
 layout: post
-guid: http://soa-tr.com/?p=197
+guid: /2013/01/28/soa-success-factors/
 permalink: /2013/01/28/soa-success-factors/
-lacandsnw_postmessage:
-  - ""
-lacandsnw_twitterhandle:
-  - ""
-kalinsPDFMeta:
-  - '{"showLink":"default"}'
-categories:
-  - Architecture
 tags:
   - soa
   - soa critical success factors
@@ -21,12 +13,11 @@ tags:
   - soa success
   - soa success factors
 ---
-[<img class="aligncenter size-full wp-image-281" alt="Screen Shot 2013-10-06 at 7.58.45 PM" src="https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2013/01/Screen-Shot-2013-10-06-at-7.58.45-PM.png?resize=558%2C406&#038;ssl=1" width="558" height="406" data-recalc-dims="1" />](https://i0.wp.com/insights.zettamachine.com/wp-content/uploads/2013/01/Screen-Shot-2013-10-06-at-7.58.45-PM.png?ssl=1)
+<img alt="Screen Shot 2013-10-06 at 7.58.45 PM" src="/images/insights/Screen-Shot-2013-10-06-at-7.58.45-PM.png" width="558" height="406" />
 
 Apart from tracking dependencies between SOA elements and managing the service life cycle, one of the indispensable tasks of SOA Governance is to control and manage SOA success. Successful implementation of a service architecture can be measured via certain indicators, also known as the [Critical Success Factors](http://en.wikipedia.org/wiki/Critical_success_factor) (CSF). Every SOA adoption initiative should incorporate a step, ideally right before the architecture blueprinting phase, where unique success factors regarding the adoption are defined. This step should also outline the tools and techniques to be used in monitoring the success factors and together they should form the CSF Specification. CSF Specification could also be refined and improved throughout the adoption process to conform with common Enterprise Architecture(EA) practices.
 
 Below, you can see a list of generic SOA CSF, with hints on how they can be monitored with SOA Governance:  
-<!--more-->
 
   * **Alignment with Business**  
     For a SOA implementation to deliver the business benefits and expected ROI, it has to provide business services aligned with business processes. This alignment can be monitored with design-time policies and service classifications based on business process frameworks. E.g. a Telco company can use [TM Forum Business Process Framework](http://www.tmforum.org/BusinessProcessFramework/1647/home.html) (eTOM) to classify its business services (A business service classified under the category of &#8220;eTOM > Operations > Resource Management and Operations > Resource Provisioning&#8221;).
