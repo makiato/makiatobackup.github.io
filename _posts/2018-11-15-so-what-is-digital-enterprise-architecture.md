@@ -6,7 +6,7 @@ author: Mehmet Akyuz
 layout: post
 guid: /2018/11/15/so-what-is-digital-enterprise-architecture/
 permalink: /2018/11/15/so-what-is-digital-enterprise-architecture/
-image: /images/IMG_20180903_093155-825x510.jpg
+image: /images/insights/IMG_20180903_093155-825x510.jpg
 tags:
   - digital
   - digital architecture
@@ -64,9 +64,5 @@ Well, thank you Captain Obvious. But, seriously, you simply cannot have a Digita
 EA teams should re-think and re-design their services with the focus on their customers. Are the organisation users getting the answers or guidance they require easily and timely? Is your Enterprise Architecture relevant, down-to-earth or disconnected? Are your artefacts easy to consume, or does it require architecture knowledge or special tooling? Do people have to chase EAs for critical decisions or are you proactive? Does your EA only speak about a far away future state which is not helping solve today&#8217;s problems? Or is it only an outdated documentation of the current state? Most critically, are you a gatekeeper or an enabler?
 
 EA should also explore the opportunities to utilise technology to deliver better experiences. An example would be an AI engine running on the architecture repositories allowing users to intuitively query the architecture. Another example would be using big data and machine learning to maintain a current picture of the enterprise systems and the interactions between them.
-
-<p style="text-align: center;">
-  &#8212;
-</p>
 
 Acting faster, bolder and smarter at the same time is an imperative for today&#8217;s businesses and it is exponentially harder for traditional organisations. Enterprise Architecture can have a role in achieving one or all of these goals. A Digital EA does not only focus on being smart and be the brakes when necessary; it is also the engine driving the change and helping the organisation take bolder steps.
