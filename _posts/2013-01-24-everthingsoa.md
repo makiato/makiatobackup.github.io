@@ -2,18 +2,10 @@
 id: 187
 title: A Comprehensive Introduction to Everything SOA
 date: 2013-01-24T07:42:45+00:00
-author: zetta
+author: Mehmet Akyuz
 layout: post
-guid: http://soa-tr.com/?p=187
+guid: /2013/01/24/everthingsoa/
 permalink: /2013/01/24/everthingsoa/
-lacandsnw_postmessage:
-  - ""
-lacandsnw_twitterhandle:
-  - _makyuz
-kalinsPDFMeta:
-  - '{"showLink":"default"}'
-categories:
-  - Architecture
 tags:
   - nexus of forces
   - presentation
@@ -25,13 +17,6 @@ I have started [soa-tr](http://soa-tr.com) in 2007 and tried to explain the bit
 
 Below presentation is my attempt to create a pile of information on the most important concepts around SOA for the avid SOA learner.
 
-
-
 <div style="margin-bottom: 5px;">
   <strong> <a title="A Comprehensive Introduction to Everything SOA" href="http://www.slideshare.net/makyuz/a-comprehensive-introduction-to-everything-soa" target="_blank">A Comprehensive Introduction to Everything SOA</a> </strong> from <strong><a href="http://www.slideshare.net/makyuz" target="_blank">Mehmet Akyuz</a></strong>
 </div>
-
-<div style="margin-bottom: 5px;">
-</div>
-
-<!--more-->
