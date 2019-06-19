@@ -6,7 +6,7 @@ author: Mehmet Akyuz
 layout: post
 guid: /2016/03/30/surviving-bimodal-it-2/
 permalink: /2016/03/30/surviving-bimodal-it-2/
-image: /images/10419846516_576f9c8678_c.jpg
+image: /images/insights/10419846516_576f9c8678_c.jpg
 tags:
   - 2 speed it
   - agile
