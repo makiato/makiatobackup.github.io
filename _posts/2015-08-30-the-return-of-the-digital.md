@@ -7,6 +7,7 @@ layout: post
 guid: /2015/08/30/the-return-of-the-digital/
 permalink: /2015/08/30/the-return-of-the-digital/
 image: /images/insights/1a22408.jpg
+comments: true
 tags:
   - analytics
   - api
