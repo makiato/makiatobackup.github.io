@@ -6,7 +6,7 @@ author: Mehmet Akyuz
 layout: post
 guid: /2015/08/30/the-return-of-the-digital/
 permalink: /2015/08/30/the-return-of-the-digital/
-image: /wp-content/uploads/2017/05/1a22408.jpg
+image: /images/insights/1a22408.jpg
 tags:
   - analytics
   - api
