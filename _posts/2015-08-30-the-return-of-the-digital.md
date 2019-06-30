@@ -2,16 +2,11 @@
 id: 293
 title: The Return of the Digital
 date: 2015-08-30T19:21:16+00:00
-author: zetta
+author: Mehmet Akyuz
 layout: post
-guid: http://zettamachine.com/?p=293
+guid: /2015/08/30/the-return-of-the-digital/
 permalink: /2015/08/30/the-return-of-the-digital/
 image: /wp-content/uploads/2017/05/1a22408.jpg
-categories:
-  - Architecture
-  - Business
-  - Cloud
-  - Data
 tags:
   - analytics
   - api
@@ -21,7 +16,7 @@ tags:
   - smac
   - social
 ---
-[<img class="aligncenter size-full wp-image-294" src="https://i1.wp.com/insights.zettamachine.com/wp-content/uploads/2015/08/1a22408.jpg?resize=660%2C378&#038;ssl=1" alt="1a22408" width="660" height="378" data-recalc-dims="1" />](https://i1.wp.com/insights.zettamachine.com/wp-content/uploads/2015/08/1a22408.jpg?ssl=1)
+<img src="/images/insights/1a22408.jpg" alt="1a22408" width="660" height="378" data-recalc-dims="1" />
 
 As the world history repeats itself, we also see the technology repeating itself in various ways. I remember presenting an über cool, <a class="external-link" href="http://en.wikipedia.org/wiki/Ajax_(programming)" target="_blank" rel="nofollow">AJAX</a>-based application development solution to customers back in 2006. I was telling how it was different to traditional web applications that it was just updating the fragments on the UI not reloading the whole page. One day in a customer demo, a veteran developer said “We had this in 80s in mainframe <a class="external-link" href="http://en.wikipedia.org/wiki/Computer_terminal" target="_blank" rel="nofollow">terminal screens</a> and it wasn’t a big deal!” Well, it wouldn’t be a big deal for the web era as well, if HTTP was initially designed for running applications not just for document exchange but that’s another story (seriously, isn’t it surprising that young developers don’t question why there is such thing as JavaScript but start learning <a href="https://angularjs.org/" target="_blank" rel="nofollow">AngularJS</a> straight away?).
 
