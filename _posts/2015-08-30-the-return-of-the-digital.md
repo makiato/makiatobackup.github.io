@@ -16,7 +16,7 @@ tags:
   - smac
   - social
 ---
-<img src="/images/insights/1a22408.jpg" alt="1a22408" width="660" height="378" data-recalc-dims="1" />
+![The Return of the Digital](/images/insights/1a22408.jpg)
 
 As the world history repeats itself, we also see the technology repeating itself in various ways. I remember presenting an über cool, <a class="external-link" href="http://en.wikipedia.org/wiki/Ajax_(programming)" target="_blank" rel="nofollow">AJAX</a>-based application development solution to customers back in 2006. I was telling how it was different to traditional web applications that it was just updating the fragments on the UI not reloading the whole page. One day in a customer demo, a veteran developer said “We had this in 80s in mainframe <a class="external-link" href="http://en.wikipedia.org/wiki/Computer_terminal" target="_blank" rel="nofollow">terminal screens</a> and it wasn’t a big deal!” Well, it wouldn’t be a big deal for the web era as well, if HTTP was initially designed for running applications not just for document exchange but that’s another story (seriously, isn’t it surprising that young developers don’t question why there is such thing as JavaScript but start learning <a href="https://angularjs.org/" target="_blank" rel="nofollow">AngularJS</a> straight away?).
 
