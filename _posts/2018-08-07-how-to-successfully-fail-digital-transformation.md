@@ -12,7 +12,7 @@ tags:
   - digital thinking
   - digital transformation
 ---
-![How to successfully fail digital transformation](/images/images/Dragon.jpg)
+![How to successfully fail digital transformation](/images/insights/Dragon.jpg)
 
 It is nearly impossible not coming across an article or a post about digital transformation on any given day. I can at least guarantee you have seen one today.
 
