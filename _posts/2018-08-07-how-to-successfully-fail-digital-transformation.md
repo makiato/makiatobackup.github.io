@@ -12,7 +12,7 @@ tags:
   - digital thinking
   - digital transformation
 ---
-<img src="/images/Dragon.jpg" alt="" width="660" height="459" srcset="/images/Dragon.jpg 1057w, /insights/Dragon-300x209.jpg 300w, /images/Dragon-768x534.jpg 768w, /images/Dragon-1024x712.jpg 1024w" sizes="(max-width: 660px) 100vw, 660px" />
+![How to successfully fail digital transformation](/images/images/Dragon.jpg)
 
 It is nearly impossible not coming across an article or a post about digital transformation on any given day. I can at least guarantee you have seen one today.
 
