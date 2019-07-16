@@ -15,8 +15,7 @@ tags:
 ---
 ![Digital Thinking](/images/insights/design_thinking_base.jpg)
 
-Digital is big. It is not only big in the size of the hype it created but also big in its breadth and impact. It has become the codename for anything mixing the latest in technology with dazzling customer experience. [Wikipedia&#8217;s definition of digital transformation](https://en.wikipedia.org/wiki/Digital_transformation) refers to it as the next chapter in technology literacy where technology amalgamates with creativity and innovation.  
-<!--more-->
+Digital is big. It is not only big in the size of the hype it created but also big in its breadth and impact. It has become the codename for anything mixing the latest in technology with dazzling customer experience. [Wikipedia&#8217;s definition of digital transformation](https://en.wikipedia.org/wiki/Digital_transformation) refers to it as the next chapter in technology literacy where technology amalgamates with creativity and innovation. 
 
 It is obvious that technology is a significant component to digital transformation but one should not make the mistake of deeming it as the most essential ingredient. In fact, in some business domains a successful digital transformation could be achieved through existing, legacy technologies by just re-thinking, re-focusing and re-visiting the customer experience. That points us to the must have ingredient of digital transformation: an obsession for providing the best customer experience. Surely, customer experience has a number of aspects. It is not just about creating beautiful mobile apps. In fact, a good customer experience should exist without any technology around. It must be ubiquitous, consistent and continuous.
 
@@ -34,7 +33,7 @@ As Tim's definition points out, design thinking is a reliable approach to innova
 
 I will take the approach defined by Stanford University's Institute of Design (a.k.a. [d.school](https://dschool.stanford.edu/)) and try to explain how design thinking and digital transformation can go hand in hand to form Digital Thinking on the path for creating the awesome.
 
-<img src="/images/dt_process.jpeg" alt="dt_process" width="660" height="193" data-recalc-dims="1" />
+![Design thinking process](/images/insights/dt_process.jpeg)
 
 <h2 style="color: #0070c1;">
   Empathize
