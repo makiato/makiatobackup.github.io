@@ -1,21 +1,11 @@
 ---
 id: 226
-title: 'Implementing Disruptive Technologies: 8 Lessons Learned from SOA'
+title: Implementing Disruptive Technologies: 8 Lessons Learned from SOA
 date: 2013-07-15T17:27:35+00:00
-author: zetta
+author: Mehmet Akyuz
 layout: post
-guid: http://soa-tr.com/?p=226
+guid: /2013/07/15/lessons-learned-from-soa/
 permalink: /2013/07/15/lessons-learned-from-soa/
-lacandsnw_postmessage:
-  - 'Implementing Disruptive Technologies: 8 Lessons Learned from SOA'
-lacandsnw_twitterhandle:
-  - _makyuz
-kalinsPDFMeta:
-  - '{"showLink":"default"}'
-categories:
-  - Architecture
-  - Cloud
-  - Data
 tags:
   - big data
   - cloud
@@ -37,8 +27,6 @@ It is true that SOA has lost a lot of its steam now and the craze of SOA has bee
 <div align="center">
   <a title="At a station" href="http://www.flickr.com/photos/28481088@N00/2198193461/" target="_blank"><img title="At a station" alt="At a station" src="https://i1.wp.com/farm3.staticflickr.com/2065/2198193461_176a367901.jpg?w=660" data-recalc-dims="1" /></a><br /> <small> <a title="tanakawho" href="http://www.flickr.com/photos/28481088@N00/2198193461/" target="_blank">tanakawho</a> via <a title="Compfight" href="http://www.compfight.com/">Compfight</a></small>
 </div>
-
-<!--more-->
 
   
 Below is some background information for the lessons learned. If you are impatient, [click here to jump to the list of lessons learned.](#lessons-learned)
