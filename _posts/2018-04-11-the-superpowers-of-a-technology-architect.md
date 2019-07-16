@@ -12,7 +12,7 @@ tags:
   - architecture
   - enterprise architecture
 ---
-![The superpowers of a technology architect](/images/insights/superpowers_of_an_architect_bw.jpg)
+![The superpowers of a technology architect](/images/insights/superpowers_of_an_architect_bw-768x512.jpg)
 
 Every profession requires special skills which make an individual best or mediocre in that field. If you are a [superhero](https://en.wikipedia.org/wiki/List_of_superhuman_features_and_abilities_in_fiction), flying without engines, seeing behind the walls or firing laser beams off your eyes would certainly make you a favourite amongst the others.
 
