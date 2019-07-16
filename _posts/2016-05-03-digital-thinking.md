@@ -13,7 +13,7 @@ tags:
   - digital
   - digital transformation
 ---
-<img src="/images/design_thinking_base.jpg" alt="design_thinking_base" width="660" height="439" data-recalc-dims="1" />
+![Digital Thinking](/images/insights/design_thinking_base.jpg)
 
 Digital is big. It is not only big in the size of the hype it created but also big in its breadth and impact. It has become the codename for anything mixing the latest in technology with dazzling customer experience. [Wikipedia&#8217;s definition of digital transformation](https://en.wikipedia.org/wiki/Digital_transformation) refers to it as the next chapter in technology literacy where technology amalgamates with creativity and innovation.  
 <!--more-->

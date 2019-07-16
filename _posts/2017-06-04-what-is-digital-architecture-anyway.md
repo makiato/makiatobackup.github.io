@@ -14,7 +14,7 @@ tags:
   - digital transformation
   - enterprise architecture
 ---
-<img class="aligncenter size-full wp-image-625" src="/images/good_idea.jpg" alt="" width="660" height="417" srcset="/images/good_idea.jpg 1181w, /images/good_idea-300x190.jpg 300w, good_idea-768x485.jpg 768w, good_idea-1024x647.jpg 1024w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1" />
+![What is Digital Architecture anyway?](/images/insights/good_idea.jpg)
 
 > <div>
 >   Best way to secure funding for your project is to put the word Digital somewhere into the name of it.
