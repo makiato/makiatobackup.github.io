@@ -47,6 +47,11 @@ Reference Architectures usually come as a set of linked architecture diagrams. C
 
 Some reference architectures focus only on a particular aspect of a solution while others provide an end-to-end view. For instance, [ACORD](https://www.acord.org/standards/Framework/Pages/default.aspx) is a data architecture model for the insurance industry while [IAA](http://www-01.ibm.com/support/knowledgecenter/SSCNZQ_7.0.0/com.ibm.ws.icp.insp_cfep1.doc/ins/pc/p_cdev/concept/ci/indstds/c_iaa.html?lang=en) is an insurance industry focused model providing Business, Application, Information and Integration architectures. Below is a list of common components of a reference architecture
 
+| Architecture Type     | Description |
+|-----------------------|-------------|
+| Business Architecture | These architectures mainly focus on the business processes. They depict a hierarchical view of the processes in a particular business area. Some also provide additional models for business terms, organizational structures, organizational skills etc. |
+
+
 <table>
   <tr>
     <th>
